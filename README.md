@@ -59,3 +59,4 @@ puede ser más eficiente computacionalmente trabajar con AᵀA (si n ≪ m) o co
 # Mostrar el reporte
 print(reporte)
 ---
+```
